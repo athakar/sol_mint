@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sol_mint/static/css/main.76598800.chunk.css",
+    "main.js": "/sol_mint/static/js/main.4e653f32.chunk.js",
+    "main.js.map": "/sol_mint/static/js/main.4e653f32.chunk.js.map",
+    "runtime-main.js": "/sol_mint/static/js/runtime-main.db1877f5.js",
+    "runtime-main.js.map": "/sol_mint/static/js/runtime-main.db1877f5.js.map",
+    "static/js/2.2ab0b76c.chunk.js": "/sol_mint/static/js/2.2ab0b76c.chunk.js",
+    "static/js/2.2ab0b76c.chunk.js.map": "/sol_mint/static/js/2.2ab0b76c.chunk.js.map",
+    "static/js/3.acdd0125.chunk.js": "/sol_mint/static/js/3.acdd0125.chunk.js",
+    "static/js/3.acdd0125.chunk.js.map": "/sol_mint/static/js/3.acdd0125.chunk.js.map",
+    "index.html": "/sol_mint/index.html",
+    "static/css/main.76598800.chunk.css.map": "/sol_mint/static/css/main.76598800.chunk.css.map",
+    "static/js/2.2ab0b76c.chunk.js.LICENSE.txt": "/sol_mint/static/js/2.2ab0b76c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1877f5.js",
+    "static/js/2.2ab0b76c.chunk.js",
+    "static/css/main.76598800.chunk.css",
+    "static/js/main.4e653f32.chunk.js"
+  ]
+}
